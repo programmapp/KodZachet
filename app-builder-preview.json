@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "КодЗачёт",
+      "hasCanvas": false,
+      "bodyTextLen": 233,
+      "bodyTextHash": "1f92e5694b5d5b1a8b6c44e0f790eb23e2d1df7f1bc57a4f8f466e1279637ae4",
+      "bodyTextPrefix": "К КОДЗАЧЁТ Промежуточный контроль 8 лекций · 200 вопросов ПРОГРА",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "КодЗачёт",
+      "hasCanvas": false,
+      "bodyTextLen": 209,
+      "bodyTextHash": "63733736f9134b41f46f5924c53ff79e00dcb0b5221578fbbf661837a6b25e08",
+      "bodyTextPrefix": "К КОДЗАЧЁТ Промежуточный контроль ПРОГРАММИРОВАНИЕ НА C++ Добро ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
